@@ -1,11 +1,23 @@
-### Hi there 👋
+olá sou o Alexandre Soares 👋
 
-<!--
-**Xand3Soares/Xand3Soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Xand3Soares&show_icons=true&theme=merko"
+  media="(prefers-color-scheme: dark )"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Xand3Soares&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Xand3Soares&show_icons=true" />
+</picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xand3Soares&hide_progress=false&theme=merko"/>
+</a>
+<a href="https://github.com/Xand3Soares/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xand3Soares&repo=github-readme-stats" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
