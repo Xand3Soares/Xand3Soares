@@ -1,7 +1,7 @@
 Olá sou o Alexandre Soares 👋
 
-- 🌱No momento estou aprendendo Html5+Css3 e Python
-- 🤔 Estou procurando ajuda com Python ...
+- 🌱No momento estou aprendendo Html5+Css3, javascritp e Python
+- 🤔 Estou procurando ajuda com Python e java script ...
 - 🌱 I’m currently learning Html+css and python...
 - 🤔 I’m looking for help with python...
 -->
@@ -41,6 +41,8 @@ Olá sou o Alexandre Soares 👋
           
   
  <img align="center" alt=css heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  
+  <img align="center" alt=css heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
   </div>
 
