@@ -1,25 +1,21 @@
-Olá sou o Alexandre Soares 👋
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
+
+# 🚀 Olá, eu sou o Alexandre - Estudante de programação! 
+
+## Sobre mim
+
+✨ Sou um estudante  apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+
+## Habilidades Tecnológicas
 
 - 🌱No momento estou aprendendo Html5+Css3, javascript e Python
-- 🤔 Estou procurando ajuda com Python e javascript ...
-- 🌱 I’m currently learning Html+css, javascript and python...
-- 🤔 I’m looking for help with Javascript and python...
+- 🤔 Estou procurando ajuda com Python ...
+- 🌱 I’m currently learning Html+css, javascript ...
+- 🤔 I’m looking for help with python...
 -->
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Xand3Soares&show_icons=true&theme=merko"
-  media="(prefers-color-scheme: dark )"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Xand3Soares&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Xand3Soares&show_icons=true" />
-</picture>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xand3Soares&hide_progress=false&theme=merko"/>
-</a>
 <div>
   <a href="https://www.facebook.com/alexandre.soares.75098?mibextid=ZbWKwL" target="_blank"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white target="blank"></a>
   <a href="https://www.instagram.com/xand3soares/?igshid=ZDdkNTZiNTM%3D" target="_blank"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="blank"></a>
